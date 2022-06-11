@@ -1,1 +1,1 @@
-# CalculateFactorialNumber
+# CalculateCombinationNumber

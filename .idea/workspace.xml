@@ -30,8 +30,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="CalculateFactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculateFactorialNumber" />
+    <configuration name="CalculateCombinationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculateCombinationNumber" />
       <module name="CalculateFactorialNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -39,7 +39,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculateFactorialNumber" />
+        <item itemvalue="Application.CalculateCombinationNumber" />
       </list>
     </recent_temporary>
   </component>
